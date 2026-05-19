@@ -51,9 +51,7 @@ Customer-Churn-Prediction-App/
 
 - Logistic Regression
 - Random Forest
-You can also use:
-- Decision Tree
-- XGBoost
+
 
 ---
 
